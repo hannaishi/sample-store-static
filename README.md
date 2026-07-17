@@ -1,5 +1,6 @@
 # sample-store-static
 
+![Sample Store](screenshot.png)
 HTML・SCSS・JavaScriptで制作した架空のコンビニサイトです。
 
 ## 使用技術
